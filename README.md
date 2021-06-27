@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GlauberMiranda
-- 👀 I’m interested in  Tecnologia de Informção
+  -   👋 Hi, I’m @GlauberMiranda
+- 👀 I’m interested in  Tecnologia de Informação
 - 🌱 I’m currently learning .. Desenvolvimento de softwares
 - 💞️ I’m looking to collaborate on ...
 Todo assunto relacionado a essa area
